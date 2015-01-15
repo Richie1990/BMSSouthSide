@@ -33,10 +33,6 @@
     Private bLStatus As Boolean
 
 
-
-
-    dfbdfvb
-
     Public Property LandlordID() As Integer
         '** Expose Landlord ID
         Get
