@@ -119,3 +119,8 @@ O:\Development\BMSSouthSide\obj\Debug\BMSPanda.Resources.resources
 O:\Development\BMSSouthSide\obj\Debug\BMSPanda.vbproj.GenerateResource.Cache
 O:\Development\BMSSouthSide\obj\Debug\BMSPanda.exe.manifest
 O:\Development\BMSSouthSide\obj\Debug\BMSPanda.application
+C:\Users\richard\Source\Workspaces\BMSSouthSide\bin\Debug\BMSPanda.exe.config
+C:\Users\richard\Source\Workspaces\BMSSouthSide\obj\Debug\BMSPanda.vbproj.ResolveComReference.cache
+C:\Users\richard\Source\Workspaces\BMSSouthSide\obj\Debug\BMSPanda.exe
+C:\Users\richard\Source\Workspaces\BMSSouthSide\obj\Debug\BMSPanda.xml
+C:\Users\richard\Source\Workspaces\BMSSouthSide\obj\Debug\BMSPanda.pdb
