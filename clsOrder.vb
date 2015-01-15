@@ -35,12 +35,6 @@
     Private sOrderProductDescription As String
 
 
-
-
-
-
-
-
     Public Property OrderID() As Integer
         '** Expose Order ID
         Get

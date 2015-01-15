@@ -22,9 +22,6 @@
     Private sSourceDescription As String
     Private bCLive As Boolean
 
-
-    fgg
-
     Public Property SupplierID() As Integer
         '** Expose Supplier ID
         Get
