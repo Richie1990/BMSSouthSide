@@ -23,7 +23,7 @@
     Private bCLive As Boolean
 
 
-    fgvbbbt
+    fgvb
 
     Public Property SupplierID() As Integer
         '** Expose Supplier ID
