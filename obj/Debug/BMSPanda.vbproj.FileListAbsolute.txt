@@ -1,0 +1,121 @@
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\BMSPanda\bin\Debug\BMSPanda.exe.config
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.exe.config
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmControlPanel.resources
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmFinance.resources
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmSalesInvoice.resources
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmStatisticsSortmyPC.resources
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmSupplier.resources
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmUtilities.resources
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmXeroCustomerCheck.resources
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.Resources.resources
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.vbproj.GenerateResource.Cache
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.exe
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.pdb
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.xml
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\XeroApi.pdb
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.vbprojResolveAssemblyReference.cache
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.vbproj.ResolveComReference.cache
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.exe
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.xml
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.pdb
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.exe.config
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.vbproj.ResolveComReference.cache
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.exe
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.xml
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.pdb
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.vbprojResolveAssemblyReference.cache
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmLandlord.resources
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmControlPanel.resources
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmFinance.resources
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmSalesInvoice.resources
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmStatisticsSortmyPC.resources
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmSupplier.resources
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmUtilities.resources
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmXeroCustomerCheck.resources
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.Resources.resources
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.vbproj.GenerateResource.Cache
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.exe
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.pdb
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.xml
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\XeroApi.pdb
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmLandlord.resources
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.exe.manifest
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.application
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.exe.manifest
+C:\Users\AngusKerr\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.application
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.exe.manifest
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.application
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.exe.manifest
+C:\Users\AngusKerr_2\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.application
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.exe.config
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.vbproj.ResolveComReference.cache
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.exe
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.xml
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.pdb
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.exe.manifest
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.application
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.exe
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.pdb
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\BMSPanda.xml
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\bin\Debug\XeroApi.pdb
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.vbprojResolveAssemblyReference.cache
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmLandlord.resources
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmControlPanel.resources
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmFinance.resources
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmSalesInvoice.resources
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmStatisticsSortmyPC.resources
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmSupplier.resources
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmUtilities.resources
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmXeroCustomerCheck.resources
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.Resources.resources
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.vbproj.GenerateResource.Cache
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.exe.manifest
+C:\Users\Angus\Dropbox (Personal)\Projects\BMSSouthSide\obj\Debug\BMSPanda.application
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\bin\Debug\BMSPanda.exe.config
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.vbproj.ResolveComReference.cache
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.exe
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.xml
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.pdb
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\bin\Debug\BMSPanda.exe.manifest
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\bin\Debug\BMSPanda.application
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\bin\Debug\BMSPanda.exe
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\bin\Debug\BMSPanda.pdb
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\bin\Debug\BMSPanda.xml
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\bin\Debug\XeroApi.pdb
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.vbprojResolveAssemblyReference.cache
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmLandlord.resources
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmControlPanel.resources
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmFinance.resources
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmSalesInvoice.resources
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmStatisticsSortmyPC.resources
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmSupplier.resources
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmUtilities.resources
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.frmXeroCustomerCheck.resources
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.Resources.resources
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.vbproj.GenerateResource.Cache
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.exe.manifest
+C:\Users\jim\Dropbox (SortmyPC)\Projects\BMSSouthSide\obj\Debug\BMSPanda.application
+O:\Development\BMSSouthSide\bin\Debug\BMSPanda.exe.config
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.vbproj.ResolveComReference.cache
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.exe
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.xml
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.pdb
+O:\Development\BMSSouthSide\bin\Debug\BMSPanda.exe.manifest
+O:\Development\BMSSouthSide\bin\Debug\BMSPanda.application
+O:\Development\BMSSouthSide\bin\Debug\BMSPanda.exe
+O:\Development\BMSSouthSide\bin\Debug\BMSPanda.pdb
+O:\Development\BMSSouthSide\bin\Debug\BMSPanda.xml
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.vbprojResolveAssemblyReference.cache
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.frmLandlord.resources
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.frmControlPanel.resources
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.frmFinance.resources
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.frmProperties.resources
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.frmSalesInvoice.resources
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.frmStatisticsSortmyPC.resources
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.frmSupplier.resources
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.frmUtilities.resources
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.frmXeroCustomerCheck.resources
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.Resources.resources
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.vbproj.GenerateResource.Cache
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.exe.manifest
+O:\Development\BMSSouthSide\obj\Debug\BMSPanda.application

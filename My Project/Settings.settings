@@ -1,0 +1,46 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="CompanyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Southside Property Management</Value>
+    </Setting>
+    <Setting Name="SPMConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=DC01\SQLEXPRESS;Initial Catalog=BMSSouthside;User ID=SouthSideUser;Password=S0rtmypc!</Value>
+    </Setting>
+    <Setting Name="SQLServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DC01\SQLEXPRESS</Value>
+    </Setting>
+    <Setting Name="DocumentsLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DropBoxName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dropbox (SortmyPC)</Value>
+    </Setting>
+    <Setting Name="DropBoxPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users</Value>
+    </Setting>
+    <Setting Name="PaymentApproved" Type="System.String" Scope="User">
+      <Value Profile="(Default)">On</Value>
+    </Setting>
+    <Setting Name="PaymentPaid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Off</Value>
+    </Setting>
+    <Setting Name="ConsumerKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xxx</Value>
+    </Setting>
+    <Setting Name="SQLDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BMSSouthside</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Provider=SQLOLEDB;Initial Catalog=BMSSouthSide;Data Source=DC01\SQLEXPRESS;User ID=SouthSideUser;Password=S0rtmypc!&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Provider=SQLOLEDB;Initial Catalog=BMSSouthSide;Data Source=DC01\SQLEXPRESS;User ID=SouthSideUser;Password=S0rtmypc!</Value>
+    </Setting>
+    <Setting Name="AccessDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Provider=Microsoft.ACE.OLEDB.12.0;Password="";User ID=Admin;Data Source=E:\Data\SouthSideManagement_be.accdb;Mode=Share Deny Write</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
